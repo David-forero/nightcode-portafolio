@@ -1,6 +1,6 @@
 import React from 'react';
 
-import cv_David_Forero from '../docs/CV-David-Forero.doc'
+import cv_David_Forero from '../docs/CV-David-Forero.doc';
 
 export const About = (props) => {
     return (
