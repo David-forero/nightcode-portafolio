@@ -46,16 +46,23 @@ export const Main = () => {
                   <h1>Habilidades</h1>
 
                   <li>
-                    <h3>HTML 5</h3>
+                    <h3>HTML 5 / CSS 3</h3>
                     <span className="barra">
                       <span className="html"></span>
                     </span>
                   </li>
 
                   <li>
-                    <h3>CSS 3</h3>
+                    <h3>React</h3>
                     <span className="barra">
-                      <span className="css"></span>
+                      <span className="react"></span>
+                    </span>
+                  </li>
+
+                  <li>
+                    <h3>React Native</h3>
+                    <span className="barra">
+                      <span className="rn"></span>
                     </span>
                   </li>
 
@@ -63,13 +70,6 @@ export const Main = () => {
                     <h3>Electron.js</h3>
                     <span className="barra">
                       <span className="electron"></span>
-                    </span>
-                  </li>
-
-                  <li>
-                    <h3>JavaScript</h3>
-                    <span className="barra">
-                      <span className="java"></span>
                     </span>
                   </li>
 
@@ -87,12 +87,6 @@ export const Main = () => {
                     </span>
                   </li>
 
-                  <li>
-                    <h3>Angular</h3>
-                    <span className="barra">
-                      <span className="angular"></span>
-                    </span>
-                  </li>
                 </div>
               </div>
             </div>

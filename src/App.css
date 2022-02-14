@@ -202,12 +202,11 @@
 }
 
 .html{width: 90%; animation: html 2s !important;}
-.css{width: 80%; animation: css 2s !important;}
-.electron{width: 45%; animation: jquery 2s !important;}
-.java{width: 64%; animation: java 2s !important;}
-.node{width: 76%; animation: php 2s !important;}
-.mongo{width: 58%; animation: python 2s !important;}
-.angular{width: 26%; animation: visual 2s !important;}
+.react{width: 70%; animation: react 2s !important;}
+.electron{width: 45%; animation: electron 2s !important;}
+.rn{width: 64%; animation: rn 2s !important;}
+.node{width: 76%; animation: node 2s !important;}
+.mongo{width: 40%; animation: mongo 2s !important;}
 
 @keyframes html{
     0%{
@@ -218,48 +217,48 @@
     }
 }
 
-@keyframes css{
+@keyframes react{
     0%{
         width: 0%;
     }
     100%{
-        width: 80%;
+        width: 70%;
     }
 }
 
-@keyframes jquery{
+@keyframes electron{
     0%{
         width: 0%;
     }
     100%{
-        width: 30%;
+        width: 45%;
     }
 }
 
-@keyframes java{
+@keyframes rn{
     0%{
         width: 0%;
     }
     100%{
-        width: 55%;
+        width: 64%;
     }
 }
 
-@keyframes php{
+@keyframes node{
     0%{
         width: 0%;
     }
     100%{
-        width: 22%;
+        width: 76%;
     }
 }
 
-@keyframes python{
+@keyframes mongo{
     0%{
         width: 0%;
     }
     100%{
-        width: 5%;
+        width: 40%;
     }
 }
 
