@@ -14,9 +14,9 @@ export const Footer = () => {
                 </div>
                 <div className="social text-center wow fadeInUp">
                     <h5 className="text-uppercase">Sígueme</h5>
-                    <Link className="icons" to="https://www.linkedin.com/in/david-forero-diaz-1bb911190/" target="_black"><i className="fab fa-linkedin"></i></Link>
-                    <Link to="/" className="icons"><i className="fab fa-instagram"></i></Link>
-                    <Link to="https://github.com/David-forero" className="icons" target="_black"><i className="fab fa-github"></i></Link>
+                    <a className="icons" href="https://www.linkedin.com/in/david-forero-diaz-1bb911190/" target="_black"><i className="fab fa-linkedin"></i></a>
+                    <a href="https://www.instagram.com/daele90/" target="_black" className="icons"><i className="fab fa-instagram"></i></a>
+                    <a href="https://github.com/David-forero" className="icons" target="_black"><i className="fab fa-github"></i></a>
                 </div>
                 <div className="copyrights text-center">
                     <p className="para wow fadeInUp">
