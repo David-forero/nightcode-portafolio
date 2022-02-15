@@ -14,14 +14,16 @@ import s2 from '../img/services/s2.png';
 import s3 from '../img/services/s3.png';
 import s4 from '../img/services/s4.png';
 
-import c2 from '../img/portfolio/c2.jpg';
-import c4 from '../img/portfolio/c4.jpg';
-import c5 from '../img/portfolio/c5.jpg';
-import c6 from '../img/portfolio/c6.jpg';
-import c7 from '../img/portfolio/c7.jpg';
+import b1 from '../img/portfolio/bg-1.png';
+import b2 from '../img/portfolio/bg-2.png';
+import b3 from '../img/portfolio/bg-3.png';
+import b4 from '../img/portfolio/bg-4.png';
+import b5 from '../img/portfolio/bg-5.png';
+import b6 from '../img/portfolio/bg-6.png';
+import b7 from '../img/portfolio/bg-7.png';
 
 const services = {s1, s2, s3, s4};
-const portfolio = {c2, c4, c5, c6, c7}
+const portfolio = {b1, b2, b3, b4, b5, b6, b7}
 
 export const Main = () => {
   return (
@@ -93,7 +95,7 @@ export const Main = () => {
             <div className="col-xl-6 col-lg-12 col-md-12 wow fadeInUp">
               <div className="experience-area">
                 <div className="d-flex flex-row years-area">
-                  <h2 className="p-3 years">2</h2>
+                  <h2 className="p-3 years">4</h2>
                   <h2>
                     <span>Años</span>
                     <span>De Experiencia</span>
